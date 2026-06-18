@@ -1,31 +1,35 @@
 # brighton-recruiter
+
 A football analytics platform that identifies players that matches Brighton &amp; Hove Albion's scouting profile
 
-## Problem
+## Goal
 
-Football clubs often overpay for established talent while undervaluing young players in emerging leagues.
+Build a scouting dashboard that ranks players using a Brighton Fit Score based on age, position, league, minutes, performance, and estimated market value.
 
-## Solution
+## Target Leagues
 
-Brighton Recruiter analyzes player performance, age, league, and market factors to identify players who fit Brighton's historical recruitment profile.
-
-## Features
-
-- Multi-league player database
-- Brighton Fit Score
-- Player comparison tool
-- Transfer target rankings
-- Recruitment dashboard
-
-## Data Sources
-
-- API-Football
-- Transfermarkt datasets
-- Custom analytics
+- EFL Championship
+- Eredivisie
+- Belgian Pro League
+- Argentine Primera División
+- Brazil Série A
+- J1 League
+- Danish Superliga
+- Turkish Süper Lig
 
 ## Tech Stack
 
 - Python
 - PostgreSQL
-- AWS
+- API-Football
+- AWS Lambda / S3
 - React
+- GitHub Actions
+
+## Planned Features
+
+- Collect player statistics from API-Football
+- Store cleaned player data in PostgreSQL
+- Calculate Brighton Fit Score
+- Rank undervalued transfer targets
+- Build an interactive dashboard
