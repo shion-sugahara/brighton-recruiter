@@ -8,14 +8,11 @@ Build a scouting dashboard that ranks players using a Brighton Fit Score based o
 
 ## Target Leagues
 
-- EFL Championship
-- Eredivisie
-- Belgian Pro League
-- Argentine Primera División
-- Brazil Série A
-- J1 League
-- Danish Superliga
-- Turkish Süper Lig
+- EFL Championship - Local players who has experience in a similar environment (e.g. João Pedro, Georginio Rutter)
+- Eredivisie (Kaoru Mitoma, Yankuba Minteh)
+- Belgian Pro League (e.g. Moisés Caicedo, Carlos Baleba)
+- Argentine Primera División (e.g. Alexis Mac Allister, Facundo Buonanotte)
+- Turkish Süper Lig (e.g. Ferdi Kadıoğlu)
 
 ## Tech Stack
 
