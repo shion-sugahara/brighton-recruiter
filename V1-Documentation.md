@@ -2,7 +2,7 @@
 
 - Create database
 - use football-API and store players
-- Create dashboard
+- Create dashboard including: top brighton fit, list of players w/ filters, graph (age vs G/A)
 - Create a brighton-scout formula
 - Show a list of players who meet the brighton-score fomula
 
@@ -16,8 +16,6 @@
 * `date_of_birth`
 * `nationality`
 * `position`
-* `secondary_position`
-* `preferred_foot`
 * `height_cm`
 * `weight_kg`
 
